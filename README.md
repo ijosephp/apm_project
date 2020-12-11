@@ -15,3 +15,5 @@ Image recognition is an exciting new field and has many important applications r
 * Resnet101.ipynb: Transfer learning technique ResNet101
 * inception_v3.ipynb: Transfer learning technique InceptionV3
 * Xception.ipynb: Transfer learning technique Xception
+
+![](cars.png)
