@@ -8,5 +8,10 @@ Image recognition is an exciting new field and has many important applications r
 **Files:**\
 making_folders.ipynb: Creates folders for different models\
 moving_pics.ipynb: Copies pictures from source folder to corresponding folders\
-calling_best_saved_models.ipynb: Predicting using trained models
-
+calling_best_saved_models.ipynb: Predicting using trained models\
+cnn.ipynb: Basic CNN implementation
+Vgg16.ipynb: Transfer learning technique VGG16
+Resnet50.ipynb: Transfer learning technique ResNet50
+Resnet101.ipynb: Transfer learning technique ResNet101
+inception_v3.ipynb: Transfer learning technique InceptionV3
+Xception.ipynb: Transfer learning technique Xception
